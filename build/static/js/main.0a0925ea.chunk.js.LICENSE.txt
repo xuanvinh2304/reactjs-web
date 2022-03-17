@@ -1,0 +1,3 @@
+//! Always return first the original state and then the changed part in that case
+
+//! IMPORTANT: TO EVERY ACTION THAT WE LISTEN TO WE'VE TO RETURN HOW THE NEW STATE LOOKS LIKE
